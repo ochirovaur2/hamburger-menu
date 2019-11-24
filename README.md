@@ -1,1 +1,3 @@
-# hamburgerMenu
+# hamburger menu without JavaScript 
+<br>
+visit: https://ochirovaur2.github.io/hamburgerMenuWithoutJavaScript/
