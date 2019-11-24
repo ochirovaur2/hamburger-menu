@@ -198,6 +198,7 @@ nav > .container .overlay::before{
 		height: 200vh;
 		width: 200%;
 		opacity: 0.97;
+		
 	}
 	nav > .container ul {
 
@@ -239,13 +240,11 @@ nav > .container .overlay::before{
 	#hamburger > div{
 		opacity: 1;
 	}
-	#chk:checked ~  .overlay::before,
-	#chk:checked ~  .overlay{
+	#chk:checked ~ .overlay::before{
 		
 		height: 0;
 		width: 0;
 		opacity: 0;
-		
 	}
 	#chk:checked ~  ul {
 		right: -100%;
